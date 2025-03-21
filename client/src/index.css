@@ -1,0 +1,34 @@
+@import "tailwindcss";
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: "Cottage";
+  }
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./assets/Raleway-Medium.ttf");
+}
+@font-face {
+  font-family: "Melodrame";
+  src: url("./assets/mélodrame.ttf");
+}
+@font-face {
+  font-family: "Horence";
+  src: url("./assets/Horence.otf");
+}
+@font-face {
+  font-family: "Cottage";
+  src: url("./assets/DreamCottage-Regular.otf");
+}
+@font-face {
+  font-family: "Alex";
+  src: url("./assets/AlexBrush-Regular.ttf");
+}
+@font-face {
+  font-family: "Whimster";
+  src: url("./assets/Whimster.otf");
+}
